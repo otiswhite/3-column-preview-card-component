@@ -15,5 +15,6 @@
 .DS_Store
 .prettierignore
 
-./design
-./temp
+design/
+temp/
+downloaded-one-solution/
